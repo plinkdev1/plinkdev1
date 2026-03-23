@@ -104,6 +104,8 @@ Rust · Data Science for digital products · Visual prototyping (Blender + Adobe
 
 [![SMWA Injection Tool](https://github-readme-stats.vercel.app/api/pin/?username=plinkdev1&repo=SMWA-InjectionTool&theme=dark&bg_color=0d1117&border_color=9945FF&title_color=14F195&icon_color=9945FF)](https://github.com/plinkdev1/SMWA-InjectionTool)
 
+[![Invoke SDK](https://github-readme-stats.vercel.app/api/pin/?username=plinkdev1&repo=invoke-solana-sdk&theme=dark&bg_color=0d1117&border_color=9945FF&title_color=14F195&icon_color=9945FF)](https://github.com/plinkdev1/invoke-solana-sdk)
+
 ---
 
 ## 📊 GitHub Stats
