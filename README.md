@@ -108,7 +108,7 @@ CI/CD · Docker · Kubernetes · BullMQ · cloud & GPU infrastructure · IoT · 
 
 [![Franny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=plinkdev1&show_icons=true&theme=dark&bg_color=0d1117&border_color=9945FF&title_color=14F195&icon_color=9945FF&text_color=ffffff&hide_border=false)](https://github.com/plinkdev1)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plinkdev1&layout=compact&theme=dark&bg_color=0d1117&border_color=9945FF&title_color=14F195&text_color=ffffff)](https://github.com/plinkdev1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plinkdev1&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css&theme=dark&bg_color=0d1117&border_color=9945FF&title_color=14F195&text_color=ffffff&custom_title=Most%20Used%20Languages)](https://github.com/plinkdev1)
 
 ---
 
