@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Franny 👋
+# Hi, I'm Franc 👋
 
 **Blockchain Developer · InfoSec Professional · Open-Source & Product Builder**
 
