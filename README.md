@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Fr4nny 👋
+# Hi, I'm FJ 👋
 
 **Blockchain Developer · InfoSec Professional · Open-Source & Product Builder**
 
